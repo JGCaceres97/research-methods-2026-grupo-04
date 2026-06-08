@@ -4,8 +4,8 @@ Repositorio del proyecto de investigación del curso **CI74101-01 — Métodos d
 
 ## Integrantes
 
-- Bertha
-- Joseph
+- Bertha Aguilar
+- Joseph Cáceres
 
 ## Descripción
 
