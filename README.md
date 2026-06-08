@@ -24,6 +24,12 @@ Esta investigación analiza el uso de inteligencia artificial sin regulación en
 └── README.md                       → Este archivo
 ```
 
+## Herramientas colaborativas
+
+- [Miro — Tablero colaborativo](https://miro.com/app/board/uXjVHOu2u00=/)
+- [Jira — Tablero del proyecto](https://10324methods-2026-q2-grupo-04.atlassian.net/jira/software/projects/METHODS/list)
+- [Zotero — Grupo de referencias](https://www.zotero.org/groups/6579512/group4_unregulated-use-of-ai-in-business-enviroments)
+
 ## Referencias principales
 
 1. Yesuf, Y. & Fields, Z. (2025). *Artificial Intelligence Adoption as a Driver of Innovation and Competitiveness in SMEs: A Bibliometric and Systematic Review*. F1000Research. [📄 Ver PDF](references/AI%20Adoption%20as%20a%20Driver%20of%20Innovation%20and%20Competitiveness%20in%20SMEs%20A%20Bibliometric%20and%20Systematic%20Review.pdf)
