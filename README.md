@@ -1,6 +1,6 @@
 # Uso de Inteligencia Artificial sin regulación en entornos empresariales
 
-Repositorio del proyecto de investigación del curso **CI74101-01 — Métodos de Investigación**, Grupo 4.
+Repositorio del proyecto de investigación del curso **CI74101-10324 — Métodos de Investigación**, Grupo 4.
 
 ## Integrantes
 
