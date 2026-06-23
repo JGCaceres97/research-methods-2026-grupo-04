@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="420" viewBox="0 0 1800 420">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#666"/>
+    </marker>
+  </defs>
+
+  <!-- Transparent background -->
+
+  <g font-family="Arial, sans-serif" font-size="18">
+    <!-- Boxes -->
+    <rect x="20" y="60" width="250" height="300" rx="12" fill="#1e3a5f"/>
+    <rect x="320" y="60" width="250" height="300" rx="12" fill="#1a5276"/>
+    <rect x="620" y="60" width="250" height="300" rx="12" fill="#117a65"/>
+    <rect x="920" y="60" width="250" height="300" rx="12" fill="#784212"/>
+    <rect x="1220" y="60" width="250" height="300" rx="12" fill="#6c3483"/>
+    <rect x="1520" y="60" width="250" height="300" rx="12" fill="#1e8449"/>
+
+    <!-- Arrows -->
+    <line x1="270" y1="210" x2="320" y2="210" stroke="#666" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="570" y1="210" x2="620" y2="210" stroke="#666" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="870" y1="210" x2="920" y2="210" stroke="#666" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="1170" y1="210" x2="1220" y2="210" stroke="#666" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="1470" y1="210" x2="1520" y2="210" stroke="#666" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <!-- Text -->
+    <g fill="white" text-anchor="middle">
+      <text x="145" y="95">
+        <tspan x="145" dy="0">PROBLEMA</tspan>
+        <tspan x="145" dy="28">─────────</tspan>
+        <tspan x="145" dy="28">Uso no regulado</tspan>
+        <tspan x="145" dy="24">de IA (Shadow AI)</tspan>
+        <tspan x="145" dy="24">en empresas</tspan>
+        <tspan x="145" dy="24">hondureñas</tspan>
+      </text>
+
+      <text x="445" y="95">
+        <tspan x="445">DATOS</tspan>
+        <tspan x="445" dy="28">─────────</tspan>
+        <tspan x="445" dy="28">Primarios:</tspan>
+        <tspan x="445" dy="24">Encuesta estructurada</tspan>
+        <tspan x="445" dy="24">Entrevistas</tspan>
+        <tspan x="445" dy="24">semiestructuradas</tspan>
+        <tspan x="445" dy="28">Secundarios:</tspan>
+        <tspan x="445" dy="24">NIST / EU AI Act</tspan>
+        <tspan x="445" dy="24">Reuel et al. 2025</tspan>
+        <tspan x="445" dy="24">Vujicic 2024</tspan>
+      </text>
+
+      <text x="745" y="95">
+        <tspan x="745">INSTRUMENTOS</tspan>
+        <tspan x="745" dy="28">─────────</tspan>
+        <tspan x="745" dy="28">Encuesta</tspan>
+        <tspan x="745" dy="24">(Google Forms)</tspan>
+        <tspan x="745" dy="24">Guía de entrevista</tspan>
+        <tspan x="745" dy="24">(Google Meet)</tspan>
+        <tspan x="745" dy="24">Ficha documental</tspan>
+      </text>
+
+      <text x="1045" y="95">
+        <tspan x="1045">PROCESAMIENTO</tspan>
+        <tspan x="1045" dy="28">─────────</tspan>
+        <tspan x="1045" dy="28">Análisis estadístico</tspan>
+        <tspan x="1045" dy="24">descriptivo</tspan>
+        <tspan x="1045" dy="24">Análisis documental</tspan>
+        <tspan x="1045" dy="24">comparativo</tspan>
+        <tspan x="1045" dy="24">Codificación temática</tspan>
+      </text>
+
+      <text x="1345" y="95">
+        <tspan x="1345">EVALUACIÓN</tspan>
+        <tspan x="1345" dy="28">─────────</tspan>
+        <tspan x="1345" dy="28">Validación por expertos</tspan>
+        <tspan x="1345" dy="24">(4–6 entrevistas)</tspan>
+        <tspan x="1345" dy="24">Aplicabilidad</tspan>
+        <tspan x="1345" dy="24">Brechas regulatorias,</tspan>
+        <tspan x="1345" dy="24">técnicas y culturales</tspan>
+      </text>
+
+      <text x="1645" y="95">
+        <tspan x="1645">RESULTADOS</tspan>
+        <tspan x="1645" dy="28">─────────</tspan>
+        <tspan x="1645" dy="28">Diagnóstico de madurez</tspan>
+        <tspan x="1645" dy="24">de gobernanza IA</tspan>
+        <tspan x="1645" dy="28">Lineamientos de</tspan>
+        <tspan x="1645" dy="24">gobernanza adaptados</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
